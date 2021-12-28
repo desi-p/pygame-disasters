@@ -24,4 +24,4 @@ while running:
         pygame.display.flip()
 
 #done - time to quit
-pygame.quit()
+pygame.quit() 
